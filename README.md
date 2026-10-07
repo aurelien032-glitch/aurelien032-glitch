@@ -22,6 +22,9 @@ est validé par comparaison avec EPANET, le logiciel public de référence. Util
 | **Atlas électoral** (bêta) · [site](https://atlas-electoral.pages.dev) · [code](https://github.com/aurelien032-glitch/atlas-electoral) | Résultats des élections françaises, de la France entière jusqu'au bureau de vote, établis à partir des données officielles. | Python, DuckDB, React, Vite, MapLibre |
 | **MyThermae** · [site](https://mythermae.com) (code non public) | Guide mondial des sources thermales, en français et en anglais. | React, TypeScript, Vite, Leaflet, Cloudflare Pages |
 
+Le code des projets publiés est consultable, tous droits réservés : toute réutilisation, notamment commerciale, est
+soumise à l'accord de l'auteur ([demande](https://hydroforge.fr/contact/)).
+
 ## Créer et entreprendre
 
 - Développement de solutions sur mesure lorsque l'offre existante ne couvre pas le besoin

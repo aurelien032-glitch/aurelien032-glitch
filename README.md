@@ -1,6 +1,6 @@
 # Bonjour, je suis Aurélien Nogent
 
-Consultant en eau potable, je construis des modèles mathématiques et des jumeaux numériques.
+Consultant en eau potable et entrepreneur, je crée des modèles mathématiques, des jumeaux numériques et les outils qui vont avec.
 
 Pour comprendre un système réel, je le reconstruis en code. Je le modélise, je cale le modèle sur les
 données de terrain jusqu'à ce qu'il se comporte comme le vrai, puis je m'en sers pour tester les décisions
@@ -21,11 +21,12 @@ Son moteur, une réécriture d'EPANET en Rust, en reproduit les résultats. Je l
 | [Atlas électoral](https://atlas-electoral.pages.dev) (bêta) · [code](https://github.com/aurelien032-glitch/atlas-electoral) | Les résultats des élections françaises, de la France entière jusqu'au bureau de vote, à partir des données officielles | Python, DuckDB, React, Vite, MapLibre |
 | [MyThermae](https://mythermae.com) (code privé) | Le guide mondial des sources thermales : près de 14 000 sources, en français et en anglais | React, TypeScript, Vite, Leaflet, Cloudflare Pages |
 
-## Ma façon de travailler
+## Créer et entreprendre
 
-- Un modèle ne mérite confiance qu'une fois calé sur les mesures.
-- Les chaînes de données partent des données ouvertes officielles et se reconstruisent de bout en bout.
-- Chaînes et applications sont livrées avec des tests automatisés.
+- Je crée les outils qui manquent : quand une donnée publique est difficile d'accès ou qu'aucun
+  logiciel ne répond au besoin, je conçois le mien.
+- Je mène chaque projet de l'idée à la mise en ligne, du traitement des données à l'interface.
+- Je bâtis sur des bases vérifiables : données officielles citées, calculs reproductibles, tests automatiques.
 
 ## Outils
 

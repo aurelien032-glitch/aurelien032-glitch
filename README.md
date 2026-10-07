@@ -24,9 +24,9 @@ est validé par comparaison avec EPANET, le logiciel public de référence. Util
 
 ## Créer et entreprendre
 
-- Concevoir les outils qui manquent, lorsque les données publiques sont difficiles d'accès ou qu'aucun logiciel ne répond au besoin.
-- Conduire chaque projet de la conception à la mise en ligne, du traitement des données à l'interface.
-- S'appuyer sur des bases vérifiables : sources officielles citées, calculs reproductibles, tests automatisés.
+- Développement de solutions sur mesure lorsque l'offre existante ne couvre pas le besoin
+- Conduite de projet complète, de la conception à la mise en production
+- Traçabilité des résultats : sources officielles citées, calculs reproductibles, tests automatisés
 
 ## Compétences techniques
 

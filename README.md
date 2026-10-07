@@ -1,22 +1,36 @@
-# Aurélien Nogent
+# Bonjour, je suis Aurélien Nogent
 
-Ingénieur indépendant en réseaux d'eau potable. Il accompagne les collectivités dans leurs études de réseau :
-schéma directeur, diagnostic patrimonial, modélisation hydraulique, défense incendie, plan de gestion de la
-sécurité sanitaire des eaux.
+Consultant en eau potable, je construis des modèles mathématiques et des jumeaux numériques.
 
-[hydroforge.fr](https://hydroforge.fr) · [Météo du robinet](https://robinet.hydroforge.fr) · [LinkedIn](https://www.linkedin.com/in/aurelien-nogent-609a93124/)
+Pour comprendre un système réel, je le reconstruis en code. Je le modélise, je cale le modèle sur les
+données de terrain jusqu'à ce qu'il se comporte comme le vrai, puis je m'en sers pour tester les décisions
+avant qu'elles soient prises. Les réseaux d'eau potable sont mon terrain principal ; la même démarche vaut
+pour d'autres systèmes.
 
-## Météo du robinet
+## En cours
 
-Les données publiques de l'eau potable en France, de la ressource au robinet, sur une même plateforme :
-qualité de l'eau réseau par réseau selon la méthode des bilans officiels, avis sanitaires des ARS, services
-d'eau et prix (SISPEA), prélèvements, nappes et sécheresse.
+**Hydroforge** (code privé) est une suite de modélisation pour les métiers de l'eau potable : patrimoine
+et SIG, modélisation hydraulique, études, exploitation et suivi des mesures partagent un même projet.
+Son moteur, une réécriture d'EPANET en Rust, en reproduit les résultats. Je l'utilise en mission.
 
-- Chaîne de traitement en Python et DuckDB : contrôle sanitaire SISE-Eaux, SISPEA, BNPE, Hub'Eau, VigiEau.
-- Site en React et TypeScript, cartes MapLibre, accessibilité vérifiée (WCAG 2.2 AA), plus de 300 tests.
+## Projets en ligne
+
+| Projet | Ce qu'il fait | Technologies |
+|---|---|---|
+| [Météo du robinet](https://meteodurobinet.fr) · [code](https://github.com/aurelien032-glitch/meteo-du-robinet) | Les données publiques de l'eau potable en France, de la ressource au robinet : qualité de l'eau par réseau, avis sanitaires, services et prix, prélèvements, nappes et sécheresse | Python, DuckDB, React, TypeScript, MapLibre |
+| [Atlas électoral](https://atlas-electoral.pages.dev) (bêta) · [code](https://github.com/aurelien032-glitch/atlas-electoral) | Les résultats des élections françaises, de la France entière jusqu'au bureau de vote, à partir des données officielles | Python, DuckDB, React, Vite, MapLibre |
+| [MyThermae](https://mythermae.com) (code privé) | Le guide mondial des sources thermales : près de 14 000 sources, en français et en anglais | React, TypeScript, Vite, Leaflet, Cloudflare Pages |
+
+## Ma façon de travailler
+
+- Un modèle ne mérite confiance qu'une fois calé sur les mesures.
+- Les chaînes de données partent des données ouvertes officielles et se reconstruisent de bout en bout.
+- Chaînes et applications sont livrées avec des tests automatisés.
 
 ## Outils
 
-Python · DuckDB · pandas · TypeScript · React · MapLibre · ECharts · Astro · données ouvertes (data.gouv.fr)
+Python · DuckDB · pandas · Rust · TypeScript · React · MapLibre · Leaflet · ECharts · Astro · EPANET · QGIS
 
-Pour une demande : [formulaire de contact de hydroforge.fr](https://hydroforge.fr/contact/).
+## Me contacter
+
+[hydroforge.fr](https://hydroforge.fr) · [LinkedIn](https://www.linkedin.com/in/aurelien-nogent-609a93124/) · [Formulaire de contact](https://hydroforge.fr/contact/)
